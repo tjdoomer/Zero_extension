@@ -61,6 +61,7 @@ Within ollama download the model you would like to use,
 e.g. Deepseek https://ollama.com/library/deepseek-r1:8b
 - ensure the model is appropriate for the spec of the machine it is being run on.
 
+additionally add the es6-string-html extension in VS code for Syntax Highlighting.
 
 Once installed replace the extension.ts, package.json and the tsconfig.json in your VS code extension path.
 
