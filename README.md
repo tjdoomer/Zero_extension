@@ -66,13 +66,14 @@ Once installed replace the extension.ts, package.json and the tsconfig.json in y
 
 To get it up and running you can run the >debug mode in VS code
 
-<img width="677" alt="debug" src="https://github.com/user-attachments/assets/b9c03423-b98d-44f4-b6fd-1fcee773c713" />
+<img width="612" alt="debug" src="https://github.com/user-attachments/assets/8a5f36cf-fbba-4d93-afda-e7f28ad6cb89" />
 
 
 Followed by cmd + shift + p
 
 
-<img width="612" alt="ext" src="https://github.com/user-attachments/assets/74a9793b-bc2a-4a6b-982c-eafc73639068" />
+<img width="677" alt="exten" src="https://github.com/user-attachments/assets/24abc831-b869-4cd3-b230-accff88eee64" />
+
 
 
 Run the extension and you should now be running a local VS code LLM.
