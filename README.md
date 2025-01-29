@@ -1,6 +1,6 @@
 # zero-ext README
 
-This is the README for a VS code extension "zero-ext" used to run Local LLM's..
+This is the README for a VS code extension called "Zero" used to run Local LLM's.. for free.
 Built following fireship.io tutorial.
 
 ## Features
@@ -80,7 +80,7 @@ Followed by cmd + shift + p
 Run the extension and you should now be running a local VS code LLM.
 
 
-Check out Fireship.io for more tutorials,
+Initial tutorial by Fireship.io, Check out there channel for more tutorials,
 https://www.youtube.com/watch?v=clJCDHml2cA
 https://fireship.io/courses/
 
