@@ -79,6 +79,9 @@ Followed by cmd + shift + p
 
 Run the extension and you should now be running a local VS code LLM.
 
+<img width="1210" alt="zero" src="https://github.com/user-attachments/assets/d28e5d5d-926a-442b-98ab-bf942b11eeb3" />
+
+
 
 Initial tutorial by Fireship.io, Check out there channel for more tutorials,
 https://www.youtube.com/watch?v=clJCDHml2cA
