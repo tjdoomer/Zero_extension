@@ -19,7 +19,7 @@ export function activate(context: vscode.ExtensionContext) {
 		// Display a message box to the user
 		const panel = vscode.window.createWebviewPanel(
 			'deepChat',
-			'Deep Seek Chart',
+			'Deep Seek Chat',
 			vscode.ViewColumn.One,
 			{ enableScripts: true }
 		);
