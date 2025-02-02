@@ -1,7 +1,6 @@
 # zero-ext README
 
 This is the README for a VS code extension called "Zero" used to run Local LLM's.. for free.
-Built following fireship.io tutorial.
 
 ## Features
 
