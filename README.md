@@ -17,11 +17,6 @@ Rough guide for gpu+ram combo:
  - 16gb ram - DeepSeek-R1-Distill-Llama-8B
  - 32gb ram - DeepSeek-R1-Distill-Qwen-14B
 
-
-## Known Issues
-
-Initial tests with DeepSeek have resulted in some halucinations if instructions are not clear.
-
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
