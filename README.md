@@ -12,7 +12,7 @@ This VS extension works in conjuction with Ollama and run models such as DeepSee
 
 The model being run will be dependendant on your computer hardware, I recommend starting with a lower model e.g. DeepSeek-R1-Distill-Qwen-1.5B if you are unsure.
 
-Rough guide:
+Rough guide for gpu+ram combo:
  - 8gb ram - DeepSeek-R1-Distill-Qwen-1.5B
  - 16gb ram - DeepSeek-R1-Distill-Llama-8B
  - 32gb ram - DeepSeek-R1-Distill-Qwen-14B
